@@ -1,0 +1,5 @@
+- Hi, I'm Lucas King
+- 👀 I am interested in programming
+- 🌱 I am currently studying the JS language (JavaScript)
+- 💞 ️ I want to collaborate with well-known programmers
+- 📫 - How to contact me - by email: lucaskingcreator@gmail.com
